@@ -1,0 +1,7 @@
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\bin\Debug\Ishani_Banking_application.exe.config
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\bin\Debug\Ishani_Banking_application.exe
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\bin\Debug\Ishani_Banking_application.pdb
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\obj\Debug\Ishani_Banking_application.csprojAssemblyReference.cache
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\obj\Debug\Ishani_Banking_application.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\obj\Debug\Ishani_Banking_application.exe
+C:\Users\ishan\source\repos\Ishani_Banking_application\Ishani_Banking_application\obj\Debug\Ishani_Banking_application.pdb

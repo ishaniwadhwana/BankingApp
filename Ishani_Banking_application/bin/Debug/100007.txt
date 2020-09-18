@@ -1,0 +1,6 @@
+Amount:|500
+FirstName:|ishani
+SecondName:|wadhwana
+Address:|kendall streets
+Phone:|123654789
+Email:|ishaniwadhwana207@gmail.com
